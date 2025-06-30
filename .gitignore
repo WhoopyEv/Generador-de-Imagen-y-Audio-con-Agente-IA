@@ -1,0 +1,15 @@
+# Ignorar archivos sensibles
+.env
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos de entorno virtual
+venv/
+.env/
+
+# Archivos de Streamlit
+.streamlit/
+
