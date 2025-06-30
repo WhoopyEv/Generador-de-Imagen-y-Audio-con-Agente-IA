@@ -5,10 +5,10 @@ Este proyecto combina generación de imágenes con Stable Diffusion, audio con E
 ## Vista previa del proyecto
 
 ### 🧠 Interfaz principal
-![Interfaz principal](./images/muestraApp1.png)
+![Interfaz principal](images/muestraApp1.png)
 
 ### 🎨 Imagen generada y audio narrativo
-![Resultado multimodal](./images/muestraApp2.png)
+![Resultado multimodal](images/muestraApp2.png)
 
 
 ## Requisitos
