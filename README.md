@@ -2,6 +2,15 @@
 
 Este proyecto combina generación de imágenes con Stable Diffusion, audio con Edge-TTS y agentes LLM usando LangChain. Utiliza Streamlit como interfaz gráfica.
 
+## Vista previa del proyecto
+
+### 🧠 Interfaz principal
+![Interfaz principal](images/muestraApp1.png)
+
+### 🎨 Imagen generada y audio narrativo
+![Resultado multimodal](images/muestraApp2.png)
+
+
 ## Requisitos
 
 Antes de ejecutar la aplicación, asegúrate de cumplir con los siguientes requisitos:
